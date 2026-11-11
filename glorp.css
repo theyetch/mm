@@ -54,10 +54,3 @@ a:hover {
     display: flex;
     gap: 1.25em;
   }
-
-.animal {
-    width: 1cm;
-    display: block;
-    margin-top: 20em;
-    margin-left: auto;
-}
