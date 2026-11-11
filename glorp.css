@@ -56,7 +56,7 @@ a:hover {
   }
 
 .animal {
-    max-width: 1cm;
+    width: 1cm;
     display: block;
     margin-top: 20em;
     margin-left: auto;
