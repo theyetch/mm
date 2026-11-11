@@ -35,16 +35,8 @@ a {
     transition: background-size 0.25s ease;
 }
 
-a:visited {
-    color: blue;
-}
-
 a:hover {
     background-size: 100% 2px;
-}
-
-a:active {
-    color: red;
 }
 
 .topnav {
@@ -63,16 +55,8 @@ a:active {
     gap: 1.25em;
   }
 
-.topnav .links a:visited {
-    a:visited {
-    color: blue;
-}
-
-.topnav .links a:hover {
-    background-size: 100% 2px;
-}
-
-.topnav .links a:active {
-    color: red;
-}
+img.animal {
+    max-width: 2cm;
+    display: block;
+    margin-left: auto;
 }
