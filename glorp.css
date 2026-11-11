@@ -55,7 +55,7 @@ a:hover {
     gap: 1.25em;
   }
 
-img.animal {
+.animal {
     max-width: 1cm;
     display: block;
     margin-top: 20em;
