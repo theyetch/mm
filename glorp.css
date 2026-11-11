@@ -62,3 +62,17 @@ a:active {
     display: flex;
     gap: 1.25em;
   }
+
+.topnav .links a:visited {
+    a:visited {
+    color: blue;
+}
+
+.topnav .links a:hover {
+    background-size: 100% 2px;
+}
+
+.topnav .links a:active {
+    color: red;
+}
+}
