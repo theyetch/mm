@@ -60,3 +60,7 @@ a:hover {
     display: flex;
     gap: 1.25em;
   }
+
+.here {
+    color: red;
+}
